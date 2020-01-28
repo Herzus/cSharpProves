@@ -1,0 +1,11 @@
+C:\Users\Bender\Desktop\projec\cSharpProves\bin\Debug\netcoreapp3.1\cSharpProves.exe
+C:\Users\Bender\Desktop\projec\cSharpProves\bin\Debug\netcoreapp3.1\cSharpProves.deps.json
+C:\Users\Bender\Desktop\projec\cSharpProves\bin\Debug\netcoreapp3.1\cSharpProves.runtimeconfig.json
+C:\Users\Bender\Desktop\projec\cSharpProves\bin\Debug\netcoreapp3.1\cSharpProves.runtimeconfig.dev.json
+C:\Users\Bender\Desktop\projec\cSharpProves\bin\Debug\netcoreapp3.1\cSharpProves.dll
+C:\Users\Bender\Desktop\projec\cSharpProves\bin\Debug\netcoreapp3.1\cSharpProves.pdb
+C:\Users\Bender\Desktop\projec\cSharpProves\obj\Debug\netcoreapp3.1\cSharpProves.csprojAssemblyReference.cache
+C:\Users\Bender\Desktop\projec\cSharpProves\obj\Debug\netcoreapp3.1\cSharpProves.AssemblyInfoInputs.cache
+C:\Users\Bender\Desktop\projec\cSharpProves\obj\Debug\netcoreapp3.1\cSharpProves.AssemblyInfo.cs
+C:\Users\Bender\Desktop\projec\cSharpProves\obj\Debug\netcoreapp3.1\cSharpProves.dll
+C:\Users\Bender\Desktop\projec\cSharpProves\obj\Debug\netcoreapp3.1\cSharpProves.pdb
