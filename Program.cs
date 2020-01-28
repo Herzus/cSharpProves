@@ -6,7 +6,7 @@ namespace cSharpProves
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!h!");
+            Console.WriteLine("Hello World!!");
             
         }
     }
